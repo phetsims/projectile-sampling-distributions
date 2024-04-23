@@ -36,14 +36,25 @@
         "requirejsNamespace": "PROJECTILE_SAMPLING_DISTRIBUTIONS",
         "simulation": true,
         "runnable": true,
-        "readmeCreatedManually": true,
         "supportedBrands": [
           "phet",
-          "adapted-from-phet"
+          "adapted-from-phet",
+          "phet-io"
+        ],
+        "phetLibs": [
+          "projectile-data-lab"
         ],
         "supportsOutputJS": true,
         "simFeatures": {
-          "supportsDynamicLocale": true
+          "supportsDynamicLocale": true,
+          "supportsInteractiveDescription": true,
+          "supportsSound": true
+        },
+        "screenNameKeys": [
+          "PROJECTILE_SAMPLING_DISTRIBUTIONS/screen.sampling"
+        ],
+        "phet-io": {
+          "compareDesignedAPIChanges": true
         }
       },
       "eslintConfig": {
@@ -62,6 +73,14 @@
                   "ts-check": true,
                   "ts-nocheck": true
                 }
+              ],
+              "additional-bad-text": [
+                "error",
+                {
+                  "forbiddenTextObjects": [
+                    "dispose"
+                  ]
+                }
               ]
             }
           }
@@ -75,12 +94,16 @@
         "requirejsNamespace": "JOIST"
       },
       {
-        "repo": "scenery-phet",
-        "requirejsNamespace": "SCENERY_PHET"
+        "repo": "projectile-data-lab",
+        "requirejsNamespace": "PROJECTILE_DATA_LAB"
       },
       {
         "repo": "projectile-sampling-distributions",
         "requirejsNamespace": "PROJECTILE_SAMPLING_DISTRIBUTIONS"
+      },
+      {
+        "repo": "scenery-phet",
+        "requirejsNamespace": "SCENERY_PHET"
       },
       {
         "repo": "sun",
