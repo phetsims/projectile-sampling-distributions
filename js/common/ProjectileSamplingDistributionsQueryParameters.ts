@@ -11,7 +11,7 @@ import logGlobal from '../../../phet-core/js/logGlobal.js';
 import projectileSamplingDistributions from '../projectileSamplingDistributions.js';
 
 const SCHEMA_MAP = {
-  //TODO add schemas for query parameters
+  //TODO add schemas for query parameters, see https://github.com/phetsims/projectile-sampling-distributions/issues/2
 };
 
 const ProjectileSamplingDistributionsQueryParameters = QueryStringMachine.getAll( SCHEMA_MAP );
