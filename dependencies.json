@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.0.0-dev.2 Tue Apr 23 2024 16:00:20 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# projectile-sampling-distributions 1.0.0-rc.0 Wed Apr 24 2024 16:06:02 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "9c7053e4ea4c05d1267b93aedf5f2ca1039a8853",
     "branch": "main"
@@ -17,11 +17,11 @@
     "branch": "main"
   },
   "dot": {
-    "sha": "54388c7ae195c899313a7b48bb0117557b87900a",
+    "sha": "388481fc92ba79ab0f742bd928243183e68a10eb",
     "branch": "main"
   },
   "joist": {
-    "sha": "8deca5cf24d104c237b4d429d3b3f1f06e20845e",
+    "sha": "b19894429cdd05f7021596e5651c82474be9e4e9",
     "branch": "main"
   },
   "kite": {
@@ -41,7 +41,7 @@
     "branch": "main"
   },
   "phet-io-sim-specific": {
-    "sha": "fb2dc8a172e664ebdc10d4606b3010e06a257360",
+    "sha": "feff75c98857b3341e11cae178eb84b13c9033a9",
     "branch": "main"
   },
   "phet-io-wrappers": {
@@ -57,23 +57,23 @@
     "branch": "main"
   },
   "projectile-data-lab": {
-    "sha": "6c6e4ec454b2af4b5f4c0ba205274473f33d380b",
+    "sha": "945fe5fa44789e38af682e899f8f3229d9034b01",
     "branch": "main"
   },
   "projectile-sampling-distributions": {
-    "sha": "2b8e9966ba8a56562bd40cd7e80b1ffaefcbbbe9",
-    "branch": "main"
+    "sha": "57c9fad84b592ffbcd1f62726d72d02076f15ffb",
+    "branch": "1.0"
   },
   "query-string-machine": {
     "sha": "7e999a7b3f8aa94379f24695deda345c53020e51",
     "branch": "main"
   },
   "scenery": {
-    "sha": "fdc685e109a4c220bc036005f2da50d383d80408",
+    "sha": "d354ba386cb15382a4c69dc8f41ae7cc9cbc7574",
     "branch": "main"
   },
   "scenery-phet": {
-    "sha": "0bcc62762d0d98b990421c828b55c0f7a839e491",
+    "sha": "ae9ceb62de414fa03cce05dd0f496f2e5a6ecbb4",
     "branch": "main"
   },
   "sherpa": {
@@ -85,11 +85,11 @@
     "branch": "main"
   },
   "sun": {
-    "sha": "aea25eaa174006da5744501b22049c185ea0723c",
+    "sha": "b29f9eb9bf3f47a061fcd54eddb612110c24d004",
     "branch": "main"
   },
   "tambo": {
-    "sha": "19c1d067f8c8d73874a2c6c349e1dfb56c7f7b5c",
+    "sha": "b3217638f4674edd4c4c4c84876dca84dddfc68c",
     "branch": "main"
   },
   "tandem": {
