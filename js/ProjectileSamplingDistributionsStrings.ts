@@ -11,9 +11,6 @@ import projectileSamplingDistributions from './projectileSamplingDistributions.j
 type StringsType = {
   'projectile-sampling-distributions': {
     'titleStringProperty': LocalizedStringProperty;
-  };
-  'screen': {
-    'nameStringProperty': LocalizedStringProperty;
   }
 };
 
