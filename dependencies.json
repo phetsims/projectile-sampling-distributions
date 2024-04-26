@@ -1,15 +1,11 @@
 {
-  "comment": "# projectile-sampling-distributions 1.0.0-rc.2 Fri Apr 26 2024 13:10:40 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# projectile-sampling-distributions 1.0.0-rc.3 Fri Apr 26 2024 13:18:20 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "347e7eeac1424adb6023fb06a619d6ea01a0620f",
     "branch": "HEAD"
   },
   "axon": {
     "sha": "81d0afd108b199acddcfa53e4837e707d5f45415",
-    "branch": "HEAD"
-  },
-  "bamboo": {
-    "sha": "09e90e5460c6803b9060ca01ba1d0911d446686a",
     "branch": "HEAD"
   },
   "brand": {
@@ -65,7 +61,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "3dfb3918e96fea0ee17f3fdadc03bc944f9b5291",
+    "sha": "fc499ad1a4ca07a2af1ac13661f21574fd30ea3a",
     "branch": "1.0"
   },
   "query-string-machine": {
