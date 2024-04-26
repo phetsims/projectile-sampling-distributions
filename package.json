@@ -15,9 +15,11 @@
     "runnable": true,
     "supportedBrands": [
       "phet",
+      "adapted-from-phet",
       "phet-io"
     ],
     "phetLibs": [
+      "bamboo",
       "projectile-data-lab"
     ],
     "supportsOutputJS": true,
@@ -26,9 +28,6 @@
       "supportsInteractiveDescription": true,
       "supportsSound": true
     },
-    "screenNameKeys": [
-      "PROJECTILE_SAMPLING_DISTRIBUTIONS/screen.sampling"
-    ],
     "phet-io": {
       "compareDesignedAPIChanges": true
     }
