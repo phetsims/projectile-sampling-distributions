@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.0.0-rc.7 Thu May 02 2024 15:36:03 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# projectile-sampling-distributions 1.0.0-rc.7 Thu May 02 2024 15:26:40 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "347e7eeac1424adb6023fb06a619d6ea01a0620f",
     "branch": "HEAD"
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "188f85a978adb8d0e76ba360a72afdcc428d99f0",
+    "sha": "56a1bfef8b1d926719e41e3597fb55ef5fa8e614",
     "branch": "1.0"
   },
   "query-string-machine": {
