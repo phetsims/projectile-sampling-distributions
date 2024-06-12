@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "axon": {
-    "sha": "81d0afd108b199acddcfa53e4837e707d5f45415",
+    "sha": "87265262cc764adea7e5361431bc61b776401e5a",
     "branch": "HEAD"
   },
   "bamboo": {
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "7de041d70b10cba0cf8af5106c6bb34d87b0f7d5",
+    "sha": "726305363196b49bcbd8ea53199b287d70004090",
     "branch": "HEAD"
   },
   "kite": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "ecb0ebf243b8332ffab50a17f2ab55662802649b",
+    "sha": "a0a371042e3a1ef807095d51fbc47e10eb01a463",
     "branch": "1.0"
   },
   "query-string-machine": {
