@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "83847042ee0bad030d8a258fa756a01b890cbe54",
+    "sha": "2c2d11ccb86ad6b9aa112e99deb617168a7fd712",
     "branch": "HEAD"
   },
   "dot": {
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "726305363196b49bcbd8ea53199b287d70004090",
+    "sha": "b6da784b19fbe6f9fcf6dab0480ffe935724d8b3",
     "branch": "HEAD"
   },
   "kite": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "a0a371042e3a1ef807095d51fbc47e10eb01a463",
+    "sha": "1120a304227969e4122a840a19805a311c643f38",
     "branch": "1.0"
   },
   "query-string-machine": {
