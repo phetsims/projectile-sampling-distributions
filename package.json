@@ -19,7 +19,8 @@
       "phet-io"
     ],
     "phetLibs": [
-      "projectile-data-lab"
+      "projectile-data-lab",
+      "bamboo"
     ],
     "supportsOutputJS": true,
     "simFeatures": {
