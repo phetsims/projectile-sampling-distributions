@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.1.0-dev.3 Wed Jul 17 2024 15:17:05 GMT-0400 (Eastern Daylight Time)",
+  "comment": "# projectile-sampling-distributions 1.1.0-dev.4 Thu Jul 18 2024 15:12:31 GMT-0400 (Eastern Daylight Time)",
   "assert": {
     "sha": "4eaabfefb0b88b213e98b9c7f32d6c570c3fc122",
     "branch": "main"
@@ -41,7 +41,7 @@
     "branch": "main"
   },
   "phet-io-sim-specific": {
-    "sha": "21d8a82b0f76d7a2a92ee49dd27edd007f482a0e",
+    "sha": "f1c7975d7cf1e17dfb92f2e60814d1269a304792",
     "branch": "main"
   },
   "phet-io-wrappers": {
@@ -61,7 +61,7 @@
     "branch": "main"
   },
   "projectile-sampling-distributions": {
-    "sha": "0ce741f1c4112126b5ab0ab125dcea037d01d478",
+    "sha": "efea7931a843b42608061ac7668e13097cd41c6d",
     "branch": "main"
   },
   "query-string-machine": {
@@ -69,7 +69,7 @@
     "branch": "main"
   },
   "scenery": {
-    "sha": "ad777b03213d6e074dd63f8cce8d14ab360971c4",
+    "sha": "224b2953de50acc756ad2c17a638305ad0fe972a",
     "branch": "main"
   },
   "scenery-phet": {
@@ -85,7 +85,7 @@
     "branch": "main"
   },
   "sun": {
-    "sha": "f3bc20522d7e4bfd16d3978748493c0c66a23905",
+    "sha": "5635895f2ff21ae5ec85a5857618cb8e13af9867",
     "branch": "main"
   },
   "tambo": {
