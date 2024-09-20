@@ -67,7 +67,7 @@
         },
         "parserOptions": {
           "project": [
-            "../projectile-sampling-distributions/tsconfig.json"
+            "../chipper/tsconfig/eslint-all/tsconfig.json"
           ]
         }
       }
