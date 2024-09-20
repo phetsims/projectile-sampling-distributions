@@ -5,5 +5,16 @@
     "images/**/*",
     "mipmaps/**/*",
     "sounds/**/*"
+  ],
+  "references": [
+    {
+      "path": "../projectile-data-lab/tsconfig.json"
+    },
+    {
+      "path": "../bamboo/tsconfig.json"
+    },
+    {
+      "path": "../chipper/tsconfig/buildjson"
+    }
   ]
 }

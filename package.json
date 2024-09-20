@@ -64,6 +64,11 @@
               ]
             }
           ]
+        },
+        "parserOptions": {
+          "project": [
+            "../projectile-sampling-distributions/tsconfig.json"
+          ]
         }
       }
     ]
