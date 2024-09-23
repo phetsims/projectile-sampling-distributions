@@ -6,16 +6,16 @@
  * @author Matthew Blackman (PhET Interactive Simulations)
  */
 
+import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
+import AudioPreferencesContentNode from '../../projectile-data-lab/js/common/view/AudioPreferencesContentNode.js';
+import SimulationPreferencesContentNode from '../../projectile-data-lab/js/common/view/SimulationPreferencesContentNode.js';
+import SamplingScreen from '../../projectile-data-lab/js/sampling/SamplingScreen.js';
+import { Node } from '../../scenery/js/imports.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import ProjectileSamplingDistributionsStrings from './ProjectileSamplingDistributionsStrings.js';
 import './common/ProjectileSamplingDistributionsQueryParameters.js';
-import SamplingScreen from '../../projectile-data-lab/js/sampling/SamplingScreen.js';
-import PreferencesModel from '../../joist/js/preferences/PreferencesModel.js';
-import SimulationPreferencesContentNode from '../../projectile-data-lab/js/common/view/SimulationPreferencesContentNode.js';
-import { Node } from '../../scenery/js/imports.js';
-import AudioPreferencesContentNode from '../../projectile-data-lab/js/common/view/AudioPreferencesContentNode.js';
 
 // Launch the sim. Beware that scenery Image nodes created outside simLauncher.launch() will have zero bounds
 // until the images are fully loaded. See https://github.com/phetsims/coulombs-law/issues/70#issuecomment-429037461
@@ -23,7 +23,7 @@ simLauncher.launch( () => {
 
   const titleStringProperty = ProjectileSamplingDistributionsStrings[ 'projectile-sampling-distributions' ].titleStringProperty;
 
-const preferencesModel = new PreferencesModel( {
+  const preferencesModel = new PreferencesModel( {
     simulationOptions: {
       customPreferences: [ {
         createContent: tandem => new SimulationPreferencesContentNode( tandem )
