@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "77e18072fafa35a7179ecaf71e9ccacdd0ab7688",
+    "sha": "bbfeb47c4947f6fae0095847ed6f88688b00bbf7",
     "branch": "HEAD"
   },
   "dot": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "8145e67bc5a97d9432a8d87acda23604c49a4e40",
+    "sha": "4e933924a325b15f35b1877902dd6d8d8e01257e",
     "branch": "HEAD"
   },
   "phetcommon": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "25eebb3f64a72bda315002b84677a1a06741cacf",
+    "sha": "6c71df02426092004b910819f852cf1966f6dbfc",
     "branch": "1.0"
   },
   "query-string-machine": {
