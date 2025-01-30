@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "bbfeb47c4947f6fae0095847ed6f88688b00bbf7",
+    "sha": "cd34e9d82257b8252e6dda334d41d852fa011a07",
     "branch": "HEAD"
   },
   "dot": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "c384c02c11235956f17681939f0dd8bf87137c08",
+    "sha": "cae1c4fc4705e21c538a8f42ac16f3669c401d95",
     "branch": "1.0"
   },
   "query-string-machine": {
