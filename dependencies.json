@@ -41,7 +41,7 @@
     "branch": "HEAD"
   },
   "phet-io": {
-    "sha": "79453abe5fa0e924e45fdfa4aa8e723dee56147a",
+    "sha": "2bd34175d5bb8520d3ca8d645d1eb99ff8d43ab9",
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "2c7d0a95ed2658350e05896c65a8b8dfcb509d72",
+    "sha": "7cfb15fe4a0949718731ce2af463f189652ced24",
     "branch": "1.0"
   },
   "query-string-machine": {
