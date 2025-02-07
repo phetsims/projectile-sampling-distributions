@@ -12,7 +12,7 @@ import simLauncher from '../../joist/js/simLauncher.js';
 import AudioPreferencesContentNode from '../../projectile-data-lab/js/common/view/AudioPreferencesContentNode.js';
 import SimulationPreferencesContentNode from '../../projectile-data-lab/js/common/view/SimulationPreferencesContentNode.js';
 import SamplingScreen from '../../projectile-data-lab/js/sampling/SamplingScreen.js';
-import { Node } from '../../scenery/js/imports.js';
+import Node from '../../scenery/js/nodes/Node.js';
 import Tandem from '../../tandem/js/Tandem.js';
 import ProjectileSamplingDistributionsStrings from './ProjectileSamplingDistributionsStrings.js';
 import './common/ProjectileSamplingDistributionsQueryParameters.js';
