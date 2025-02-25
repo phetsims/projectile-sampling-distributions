@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.2.0-dev.1 Tue Feb 25 2025 10:33:38 GMT-0500 (Eastern Standard Time)",
+  "comment": "# projectile-sampling-distributions 1.2.0-dev.2 Tue Feb 25 2025 11:33:19 GMT-0500 (Eastern Standard Time)",
   "assert": {
     "sha": "f6d41b399ad32df2a00ab4b329981be0c574d77a",
     "branch": "main"
@@ -33,7 +33,7 @@
     "branch": "main"
   },
   "perennial-alias": {
-    "sha": "715cb22aeb47d7ce2b5d7870e3522277373cec01",
+    "sha": "288ef004f66d48b0a64ab56dbdd73b54f0131009",
     "branch": "main"
   },
   "phet-core": {
@@ -45,7 +45,7 @@
     "branch": "main"
   },
   "phet-io-sim-specific": {
-    "sha": "6dd63d78bf4bb58e674c51812060bb90bd4b0c74",
+    "sha": "078b60314f64b280222dd98ad89ce36b7fd0ac4e",
     "branch": "main"
   },
   "phet-io-wrappers": {
@@ -65,7 +65,7 @@
     "branch": "main"
   },
   "projectile-sampling-distributions": {
-    "sha": "b686d9f88802b94b962749c75f9298f3d6236844",
+    "sha": "239fe72780081c6788bacfc114697220bc216ceb",
     "branch": "main"
   },
   "query-string-machine": {
