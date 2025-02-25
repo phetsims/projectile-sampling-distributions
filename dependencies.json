@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.1.0-dev.5 Mon Feb 24 2025 12:12:23 GMT-0500 (Eastern Standard Time)",
+  "comment": "# projectile-sampling-distributions 1.2.0-dev.1 Tue Feb 25 2025 10:33:38 GMT-0500 (Eastern Standard Time)",
   "assert": {
     "sha": "f6d41b399ad32df2a00ab4b329981be0c574d77a",
     "branch": "main"
@@ -33,7 +33,7 @@
     "branch": "main"
   },
   "perennial-alias": {
-    "sha": "4a688357b3ab7e0a68aa3383711b30a14d8585f4",
+    "sha": "715cb22aeb47d7ce2b5d7870e3522277373cec01",
     "branch": "main"
   },
   "phet-core": {
@@ -45,11 +45,11 @@
     "branch": "main"
   },
   "phet-io-sim-specific": {
-    "sha": "1a90879213163cad4fd609f9a0c4065ff940f4ee",
+    "sha": "6dd63d78bf4bb58e674c51812060bb90bd4b0c74",
     "branch": "main"
   },
   "phet-io-wrappers": {
-    "sha": "3f2831137c431fe23ae8c7761946c9ea7023593f",
+    "sha": "03c56c4c92f84aa91295651a6f43e9c4d4064140",
     "branch": "main"
   },
   "phetcommon": {
@@ -65,7 +65,7 @@
     "branch": "main"
   },
   "projectile-sampling-distributions": {
-    "sha": "d697a4c7f111083bcd224619c0c47f9efe0cc1f5",
+    "sha": "b686d9f88802b94b962749c75f9298f3d6236844",
     "branch": "main"
   },
   "query-string-machine": {
@@ -77,7 +77,7 @@
     "branch": "main"
   },
   "scenery-phet": {
-    "sha": "4a7900c0b5578adf1a036b021df30de3b5b99d29",
+    "sha": "5bec67f5a91c380442b87c84afa7904e10b2ff50",
     "branch": "main"
   },
   "sherpa": {
