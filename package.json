@@ -33,6 +33,7 @@
     ],
     "phet-io": {
       "compareDesignedAPIChanges": true,
+      "fuzzValuesOverride": false,
       "wrappers": [
         "phet-io-sim-specific/repos/projectile-sampling-distributions/wrappers/codap"
       ]
