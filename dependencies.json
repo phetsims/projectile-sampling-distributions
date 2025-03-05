@@ -13,11 +13,11 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "bc7d44b6d80d8fa0b141de0d8c86e992dc23330f",
+    "sha": "6ae6b497732f8dd92e30a3c7dfba7008f6e4c712",
     "branch": "HEAD"
   },
   "chipper": {
-    "sha": "660ebb1ce3fe6ba96ce68a32d3dc9aefbed77a2d",
+    "sha": "9ced8f53ad4b169122fa97ca5463edf800a1b676",
     "branch": "HEAD"
   },
   "dot": {
@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "dafd1b60f001f193e37cf0285266314c2e0a48eb",
+    "sha": "5975f6c1a5e7ab42a9622d0858e4a7ed7c3fe72a",
     "branch": "HEAD"
   },
   "kite": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
-    "sha": "4e933924a325b15f35b1877902dd6d8d8e01257e",
+    "sha": "7a843da0dafb7ae4c06ab0824bd48dfc84e8f3d0",
     "branch": "HEAD"
   },
   "phetcommon": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "e942bb9029798213ff0ae42fc808390b8de18193",
+    "sha": "f16688a1af9b13a70e0f68e31b2d633ab9bc2489",
     "branch": "1.0"
   },
   "query-string-machine": {
