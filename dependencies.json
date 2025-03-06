@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.0.5 Fri Feb 07 2025 22:07:26 GMT-0700 (Mountain Standard Time)",
+  "comment": "# projectile-sampling-distributions 1.0.6-rc.1 Thu Mar 06 2025 02:02:25 GMT-0700 (Mountain Standard Time)",
   "assert": {
     "sha": "347e7eeac1424adb6023fb06a619d6ea01a0620f",
     "branch": "HEAD"
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "fa1be50ab00b6c5144def5444ca1f56b55ad04f1",
+    "sha": "d17817018e1e4d3a8286b42aa3c23c4d1ccd645a",
     "branch": "1.0"
   },
   "query-string-machine": {
