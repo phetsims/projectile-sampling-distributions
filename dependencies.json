@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "2b41741fcc817bd49f9017d0065be4cfbb30c207",
+    "sha": "263a9c2bbf9a4b1f9e0c5ecad490e409034b8bc7",
     "branch": "HEAD"
   },
   "kite": {
@@ -45,7 +45,7 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "999ddca3c9bdd5fc88d411ab4ee1bdc09873ba21",
+    "sha": "b50b0b5ef9a6f5201f89d32e82d162cf83372061",
     "branch": "HEAD"
   },
   "phet-io-wrappers": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "2bee00a827922a42162e1fd22e0cb7e9c943852a",
+    "sha": "bc6d8c97f7b44b587abe2c50c318389972e26320",
     "branch": "1.0"
   },
   "query-string-machine": {
