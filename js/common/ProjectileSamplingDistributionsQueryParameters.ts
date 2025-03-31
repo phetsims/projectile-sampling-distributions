@@ -11,14 +11,9 @@ import logGlobal from '../../../phet-core/js/logGlobal.js';
 import { QueryStringMachine } from '../../../query-string-machine/js/QueryStringMachineModule.js';
 import projectileSamplingDistributions from '../projectileSamplingDistributions.js';
 
-const SCHEMA_MAP = {
+const ProjectileSamplingDistributionsQueryParameters = QueryStringMachine.getAll( {
   //TODO add schemas for query parameters, see https://github.com/phetsims/projectile-sampling-distributions/issues/2
-};
-
-const ProjectileSamplingDistributionsQueryParameters = QueryStringMachine.getAll( SCHEMA_MAP );
-
-// The schema map is a read-only part of the public API, in case schema details (e.g. validValues) are needed elsewhere.
-ProjectileSamplingDistributionsQueryParameters.SCHEMA_MAP = SCHEMA_MAP;
+} );
 
 projectileSamplingDistributions.register( 'ProjectileSamplingDistributionsQueryParameters', ProjectileSamplingDistributionsQueryParameters );
 
