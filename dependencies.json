@@ -1,5 +1,5 @@
 {
-  "comment": "# projectile-sampling-distributions 1.0.8 Wed Jun 11 2025 16:39:03 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# projectile-sampling-distributions 1.0.8 Tue Jun 24 2025 08:18:15 GMT-0400 (Eastern Daylight Time)",
   "assert": {
     "sha": "347e7eeac1424adb6023fb06a619d6ea01a0620f",
     "branch": "HEAD"
@@ -45,8 +45,8 @@
     "branch": "HEAD"
   },
   "phet-io-sim-specific": {
-    "sha": "607bd5fce5f44cd6260ead70eae349ecfdfc3602",
-    "branch": "HEAD"
+    "sha": "24169a4f17afb7097a30a4575588dbce3b255cb5",
+    "branch": "projectile-sampling-distributions-1.0"
   },
   "phet-io-wrappers": {
     "sha": "7a843da0dafb7ae4c06ab0824bd48dfc84e8f3d0",
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "d00b40265e5aca51289d026b576f224b42bf8a80",
+    "sha": "2129d0480355cc3d0ec3597970a63115283c726a",
     "branch": "1.0"
   },
   "query-string-machine": {
