@@ -13,7 +13,7 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "d4b15832dc256129cfbe2be39c429fec39d6d1f7",
+    "sha": "623705fae27e910b10986af57e2cfd9fa4076075",
     "branch": "HEAD"
   },
   "chipper": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "85bb2c2e3a7dced0b29bec6f7a5887a132320b03",
+    "sha": "00482d2a1cba488f70805b14dabc25aa74ab658c",
     "branch": "1.1"
   },
   "query-string-machine": {
