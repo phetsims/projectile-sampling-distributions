@@ -25,7 +25,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "369ee815b64559b89d4fdc52559ed0fb37db4117",
+    "sha": "07e535bfe60c6ad4816b4048e8a1cfe3a6ed5f25",
     "branch": "HEAD"
   },
   "kite": {
@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "c8b5e46cec30b1ff24df7ce4f676dfee4764216f",
+    "sha": "b9f537e80ba5ef9a95f88bef420ec70f1c69c38e",
     "branch": "1.0"
   },
   "query-string-machine": {
