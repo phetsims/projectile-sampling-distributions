@@ -19,4 +19,6 @@ type StringsType = {
 
 const ProjectileSamplingDistributionsStrings = getStringModule( 'PROJECTILE_SAMPLING_DISTRIBUTIONS' ) as StringsType;
 
+projectileSamplingDistributions.register( 'ProjectileSamplingDistributionsStrings', ProjectileSamplingDistributionsStrings );
+
 export default ProjectileSamplingDistributionsStrings;
