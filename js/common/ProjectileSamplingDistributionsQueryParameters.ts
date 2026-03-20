@@ -17,6 +17,6 @@ const ProjectileSamplingDistributionsQueryParameters = QueryStringMachine.getAll
 // Log query parameters
 logGlobal( 'phet.chipper.queryParameters' );
 logGlobal( 'phet.preloads.phetio.queryParameters' );
-logGlobal( 'phet.projectileSamplingDistributions.ProjectileSamplingDistributionsQueryParameters' );
+phet.log && phet.log( `ProjectileSamplingDistributionsQueryParameters: ${JSON.stringify( ProjectileSamplingDistributionsQueryParameters, null, 2 )}` );
 
 export default ProjectileSamplingDistributionsQueryParameters;
