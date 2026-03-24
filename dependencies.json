@@ -65,7 +65,7 @@
     "branch": "HEAD"
   },
   "projectile-sampling-distributions": {
-    "sha": "1b8d2aced4f431604d5658acb4be7d23862eb9d5",
+    "sha": "b6e66b0155d30743493500cc020ab814ab161d63",
     "branch": "1.0"
   },
   "query-string-machine": {
@@ -73,7 +73,7 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "b8fb68e93b1f6a18dc7e70275d1825dd9fc17d70",
+    "sha": "18ca821959772847cd9622c7ef08a8c6209d1eec",
     "branch": "HEAD"
   },
   "scenery-phet": {
